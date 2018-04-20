@@ -29,6 +29,8 @@ Second part
 
 See also <https://github.com>
 
+backtick looks like this: <tt>`<tt>
+
 *italics*
 **bold**
 _underscore_
